@@ -3,6 +3,8 @@
 A simple merchant calculator built using Arduino and Python, designed to assist shopkeepers in calculating totals(hamal charge , weighage charge), applying discounts, and managing basic inventory tasks.
 There are 2 versions of this i have tried 1 folder is of flask app & secounf the for physical device with aurdino 
 
+[Screencast from 24-04-25 03:20:51 PM IST.webm](https://github.com/user-attachments/assets/1a6652a4-fc3c-4059-90d1-d3d798e92a9d)
+
 ## Features
 
 - **Total Calculation**: Computes the total amount based on item prices and quantities.
@@ -16,6 +18,7 @@ There are 2 versions of this i have tried 1 folder is of flask app & secounf the
 - LCD Display (16x2)
 - Keypad (4x4 matrix)
 - Breadboard and jumper wires
+
 - Power supply (USB or external)
 
 ## Software Requirements
