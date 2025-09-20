@@ -1,3 +1,4 @@
+
 # Merchant Calculator
 
 A simple merchant calculator built using Arduino and Python, designed to assist shopkeepers in calculating totals(hamal charge , weighage charge), applying discounts, and managing basic inventory tasks.
@@ -5,7 +6,12 @@ There are 2 versions of this i have tried 1 folder is of flask app & secounf the
 
 
 
-Uploading WhatsApp Video 2025-09-07 at 1.58.14 PM.mp4…
+
+
+https://github.com/user-attachments/assets/63d46140-01de-405b-a62c-33b16d41a3ba
+
+
+
 
 
 
